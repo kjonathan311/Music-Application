@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_fav"
+        android:icon="@drawable/pngaaa_com_2458098"
+        android:title="Favorite" />
+    <item
+        android:id="@+id/menu_createTrack"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="Create Track" />
+</menu>
